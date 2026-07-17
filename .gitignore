@@ -1,0 +1,16 @@
+# Datasets and scalers
+*.pkl
+
+# Model weights
+*.h5
+
+# Generated outputs
+results/
+
+# One-time helper
+organize_folder.bat
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
